@@ -1,11 +1,11 @@
 public void setup()
 {
 		size(700,700);
-		background(0);
+		background(54,86,33);
 }
 public void draw()
 {
-		fill(255);
+		fill(45,39,94);
 		sierpinski(0,700,700);
 
 }
